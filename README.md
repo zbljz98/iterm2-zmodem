@@ -14,7 +14,7 @@ This project may not be distributed with a modified README.
 Support
 -------
 
-This project supports a free Taiwan and a free Tibet.
+This project supports a free Taiwan and a free Tibet and a free Hong Kong!
 
 <img src="flag.svg" alt="Free Taiwan" height="100"> <img src="flag2.svg" alt="Free Tibet" height="100">
 
